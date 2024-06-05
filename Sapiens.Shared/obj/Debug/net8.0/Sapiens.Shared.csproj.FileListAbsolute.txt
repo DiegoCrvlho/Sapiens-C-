@@ -1,0 +1,11 @@
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\bin\Debug\net8.0\Sapiens.Shared.deps.json
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\bin\Debug\net8.0\Sapiens.Shared.dll
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\bin\Debug\net8.0\Sapiens.Shared.pdb
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\Sapiens.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\Sapiens.Shared.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\Sapiens.Shared.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\Sapiens.Shared.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\Sapiens.Shared.dll
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\refint\Sapiens.Shared.dll
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\Sapiens.Shared.pdb
+C:\Users\diego\OneDrive\Documentos\TED 1 PARTE\Sapiens\Sapiens.Shared\obj\Debug\net8.0\ref\Sapiens.Shared.dll

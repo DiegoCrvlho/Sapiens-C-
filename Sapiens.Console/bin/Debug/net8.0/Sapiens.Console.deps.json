@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sapiens.Console/1.0.0": {
+        "dependencies": {
+          "Sapiens.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Sapiens.Console.dll": {}
+        }
+      },
+      "Sapiens.Shared/1.0.0": {
+        "runtime": {
+          "Sapiens.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sapiens.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sapiens.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
