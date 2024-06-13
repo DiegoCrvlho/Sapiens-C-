@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{20B21D98-1B84-45C9-90D9-0C946BCAD373}|Sapiens.Console\\Sapiens.Console.csproj|solutionrelative:sapiens.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|c:\\users\\diego\\onedrive\\documentos\\ted 1 parte\\sapiens\\sapiens.shared\\contexts\\sapienscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|solutionrelative:sapiens.shared\\contexts\\sapienscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|c:\\users\\diego\\onedrive\\documentos\\ted 1 parte\\sapiens\\sapiens.shared\\entities\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|solutionrelative:sapiens.shared\\entities\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|c:\\users\\diego\\onedrive\\documentos\\ted 1 parte\\sapiens\\sapiens.shared\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|solutionrelative:sapiens.shared\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|c:\\users\\diego\\onedrive\\documentos\\ted 1 parte\\sapiens\\sapiens.shared\\contexts\\sapienscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|solutionrelative:sapiens.shared\\contexts\\sapienscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C199D074-E79B-48C9-A056-CA47A99907B8}|Sapiens.Shared\\Sapiens.Shared.csproj|c:\\users\\diego\\onedrive\\documentos\\ted 1 parte\\sapiens\\sapiens.shared\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Disciplina.cs",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\TED 1 PARTE\\Sapiens\\Sapiens.Shared\\Entities\\Disciplina.cs",
               "RelativeDocumentMoniker": "Sapiens.Shared\\Entities\\Disciplina.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Sapiens.Shared\\Entities\\Disciplina.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:19:47.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T20:19:47.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Curso.cs",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\TED 1 PARTE\\Sapiens\\Sapiens.Shared\\Entities\\Curso.cs",
               "RelativeDocumentMoniker": "Sapiens.Shared\\Entities\\Curso.cs",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Sapiens.Shared\\Entities\\Curso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T20:00:26.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T20:00:26.681Z"
             },
             {
               "$type": "Document",
@@ -66,20 +64,20 @@
               "RelativeDocumentMoniker": "Sapiens.Console\\Program.cs",
               "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\TED 1 PARTE\\Sapiens\\Sapiens.Console\\Program.cs",
               "RelativeToolTip": "Sapiens.Console\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAZAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T23:13:25.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SapiensContext.cs",
               "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\TED 1 PARTE\\Sapiens\\Sapiens.Shared\\Contexts\\SapiensContext.cs",
               "RelativeDocumentMoniker": "Sapiens.Shared\\Contexts\\SapiensContext.cs",
               "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\TED 1 PARTE\\Sapiens\\Sapiens.Shared\\Contexts\\SapiensContext.cs",
               "RelativeToolTip": "Sapiens.Shared\\Contexts\\SapiensContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA5wBYAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T19:35:36.798Z",
               "EditorCaption": ""
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Sapiens.Shared\\Entities\\Funcionario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T19:35:12.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T19:35:12.116Z"
             }
           ]
         }
